@@ -1,0 +1,106 @@
+{
+   "@context": "https://schema.org",
+   "@graph": [
+      {
+         "@type": "Place",
+         "@id": "https://hatumseo.com/#place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trujillo",
+            "addressRegion": "La Libertad",
+            "addressCountry": "Perú"
+         }
+      },
+      {
+         "@type": [
+            "LocalBusiness",
+            "Organization"
+         ],
+         "@id": "https://hatumseo.com/#organization",
+         "name": "HatumSEO",
+         "url": "https://hatumseo.com",
+         "email": "info@hatumseo.com",
+         "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trujillo",
+            "addressRegion": "La Libertad",
+            "addressCountry": "Perú"
+         },
+         "logo": {
+            "@type": "ImageObject",
+            "url": "https://hatumseo.com/wp-content/uploads/2021/02/hatumseo.png"
+         },
+         "priceRange": "S/S/S/S/",
+         "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+         ],
+         "location": {
+            "@id": "https://hatumseo.com/#place"
+         },
+         "image": {
+            "@type": "ImageObject",
+            "url": "https://hatumseo.com/wp-content/uploads/2021/02/hatumseo.png"
+         },
+         "telephone": "+51 927115616"
+      },
+      {
+         "@type": "WebSite",
+         "@id": "https://hatumseo.com/#website",
+         "url": "https://hatumseo.com",
+         "name": "HatumSEO",
+         "publisher": {
+            "@id": "https://hatumseo.com/#organization"
+         },
+         "inLanguage": "es",
+         "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://hatumseo.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+         }
+      },
+      {
+         "@type": "ImageObject",
+         "@id": "https://hatumseo.com/#primaryImage",
+         "url": "https://hatumseo.com/wp-content/uploads/2020/06/Marketing-SEO-ecommerce.jpg",
+         "width": "640",
+         "height": "426"
+      },
+      {
+         "@type": "WebPage",
+         "@id": "https://hatumseo.com/#webpage",
+         "url": "https://hatumseo.com/",
+         "name": "HatumSEO | Posicionamiento Web SEO Trujillo y Marketing Digital eCommerce",
+         "datePublished": "2020-06-29T01:01:54-05:00",
+         "dateModified": "2021-03-28T15:33:56-05:00",
+         "isPartOf": {
+            "@id": "https://hatumseo.com/#website"
+         },
+         "primaryImageOfPage": {
+            "@id": "https://hatumseo.com/#primaryImage"
+         },
+         "inLanguage": "es"
+      },
+      {
+         "@type": "Person",
+         "name": "HatumSEO | Posicionamiento Web SEO Trujillo y Marketing Digital eCommerce",
+         "description": "Luis Narciso, ⚡ Consultor de SEO y Marketing Digital ☝ Aumentar tus VENTAS, TRÁFICO, INGRESOS Y CONVERSIONES | Posicionamiento Web SEO Trujillo ✆",
+         "email": "luis@hatumseo.com",
+         "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trujillo",
+            "addressRegion": "La Libertad",
+            "postalCode": "13001",
+            "addressCountry": "Perú"
+         },
+         "gender": "Male",
+         "jobTitle": "Consultor SEO y Marketing Digital",
+         "@id": "https://hatumseo.com/#schema-4200",
+         "image": {
+            "@id": "https://hatumseo.com/#primaryImage"
+         },
+         "mainEntityOfPage": {
+            "@id": "https://hatumseo.com/#webpage"
+         }
+      }
+   ]
+}
