@@ -1,0 +1,34 @@
+{
+   "@context": "https://schema.org",
+   "@type": "Service",
+   "name": "HatumSEO | Posicionamiento Web SEO Trujillo y Marketing Digital eCommerce",
+   "serviceType": "Posicionamiento SEO Trujillo",
+   "image": {
+      "@type": "ImageObject",
+      "url": "https://hatumseo.com/wp-content/uploads/2020/06/Marketing-SEO-ecommerce.jpg",
+      "width": 640,
+      "height": 426
+   },
+   "provider": {
+      "@type": "LocalBusiness",
+      "name": "HatumSEO",
+      "image": {
+         "@type": "ImageObject",
+         "url": "https://hatumseo.com/wp-content/uploads/2021/02/seo-trujillo.png",
+         "width": 274,
+         "height": 274
+      },
+      "telephone": "+51927115616",
+      "priceRange": "S/S/S/S/",
+      "address": {
+         "@type": "PostalAddress",
+         "addressLocality": "Trujillo",
+         "addressRegion": "La Libertad"
+      }
+   },
+   "areaServed": {
+      "@type": "State",
+      "name": "Trujillo, La Esperanza, Víctor Larco Herrera, Provincia de Trujillo"
+   },
+   "description": "Posicionamiento SEO Trujillo"
+}
