@@ -1,0 +1,38 @@
+{
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+      {
+         "@type": "Question",
+         "name": "¿Qué es un SEO en trujillo?",
+         "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Un Especialista <strong>Seo en Trujillo<\/strong> es un profesional que entiende como funcionan los algoritmos de Google y otros buscadores, y aplica estrategias para que tu sitio web o ecommerce pueda aparecer en los primeros lugares de Google, Bing, Yandex, etc.<\/p>"
+         }
+      },
+      {
+         "@type": "Question",
+         "name": "¿Cómo salir primero en Google?",
+         "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Puedes contratar a una agencia de SEO (o marketing digital con un especialista en SEO) o puedes contratar a un consultor seo independiente; pero ten en cuneta que nadie puede asegurar que tu sitio web va a parecer en primer lugar para resultados orgánicos, una forma de acelerar esto es pagar anuncios (SEM). porque <\/p>"
+         }
+      },
+      {
+         "@type": "Question",
+         "name": "¿Cómo salir en el mapa en Google?",
+         "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Si tu empresa local ya aparece en Google hay que reclamar tu ficha de google my business, o sino hay que registrar la ubicación de tu empresa.<\/p><p>Otra forma de salir en búsquedas locales cuando alguien busca una empresa local , por ejemplo si estas buscando \"SEO Trujillo\", es muy probable que estés buscando un SEO que viva en Trujillo; para esto se utiliza estrategi9as de SEO local. <\/p>"
+         }
+      },
+      {
+         "@type": "Question",
+         "name": "Consultor SEO en Trujillo",
+         "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Mu nombre es Luis Narciso me dedico al SEO desde hace 5 años y son de Trujillo Perú,  así que si deseas puedo visitar tu empresa o puedes ponerte en contacto conmigo para ver como podemos hacer que tu sitio web aparezca en los primeros lugares de Gooogle.<\/p>"
+         }
+      }
+   ]
+}
