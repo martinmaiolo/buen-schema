@@ -1,0 +1,50 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://www.schema.org",
+        "@type": "MedicalClinic",
+        "priceRange": "Rs500 to 1000",
+        "telephone": "+919405613618",
+        "name": "Ayushman Bhava Ayurveda Keraliya Panchakarma Clinic Nashik",
+        "disambiguatingDescription": "Best Ayurvedic Clinic famous for panchkarma ayurvedic treatment in nashik",
+        "url": "https://ayurvedanashik.com",
+        "sameAs": [
+            "https://www.ayurvedanashik.com",
+            "https://www.facebook.com/ayushmanbhavayurveda",
+            "https://twitter.com/AyushmanbhavaA1",
+            "https://www.youtube.com/channel/UCwnIo4fwIE-0tQypV-PSihQ?reload=9",
+            "https://in.pinterest.com/ayushmanbhavayurveda/",
+            "https://www.instagram.com/ayushman_bhava_ayurveda/",
+            "https://g.page/ayurvedicdoctornashik?share",
+            "https://www.google.com/maps/place/Ayushman+Bhava+Ayurveda+%26+Keraliya+Panchakarma+Clinic/@20.0076134,73.7699413,15z/data=!4m5!3m4!1s0x0:0xff3e77f3c73e996c!8m2!3d20.0076134!4d73.7699413"
+            ],
+        "logo": "https://static.wixstatic.com/media/7ffa3e_552c6b2ceb75484aa562e1b252e36f1d~mv2.jpg/v1/fill/w_219,h_271/Ayushman%20Bhava%20Ayurveda%20panchakarma%20clinic%20Nashik.jpg",
+        "image": "https://static.wixstatic.com/media/7ffa3e_e1f2e826972f47c1874e337a7331f250~mv2.jpg/v1/fill/w_675,h_299/Dr.Yogesh%20Chavan.jpg",
+        "description": "Ayushman Bhava Ayurveda is best ayurvedic clinic in Nashik offering best ayurvedic treatment and panchakarma treatment, Run by best ayurvedic doctor in nashik india – Dr.yogesh chavan, md Ayurveda",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "17, Vaishali soc, old gangapur naka , Nashik",
+            "addressLocality": "Nashik",
+            "addressRegion": "Maharashtra",
+            "postalCode": "422005",
+            "addressCountry": "India"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "20.007607",
+            "longitude": "73.769942"
+        },
+        "openingHours": "Mo, Tu, We, Th, Fr, Sa 10:00-21:00",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+919405613618",
+            "contactType": "+919405613618"
+            },
+            
+            "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": "160"
+        
+        }
+    }
+</script>

@@ -1,0 +1,112 @@
+<script type="application/ld+json">{
+      "@context": "https://schema.org",
+      "@graph": [
+          {
+              "@type": "Organization",
+              "@id": "https://www.maohamasaki.com/#organization",
+              "name": "Mao Hamasaki",
+              "url": "https://www.maohamasaki.com/",
+              "sameAs": ["https://www.wikidata.org/wiki/Q11557679",
+              "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E7%9C%9F%E7%B7%92",
+              "https://www.imdb.com/name/nm8017940/",
+            "https://www.instagram.com/maohamasaki_official/",
+			"https://twitter.com/hamasaki_mao",
+			"https://www.facebook.com/maooooo1020",
+			"https://www.youtube.com/channel/UCI3s-Svu4fZcrib1zgMv2iQ/videos",
+			"https://www.tiktok.com/@maohamasaki"
+		
+              ],
+              "logo": {
+                  "@type": "ImageObject",
+                  "@id": "https://www.maohamasaki.com/#image/logo",
+                  "url": "https://static.wixstatic.com/media/ae7aad_ebc0791b3f4b42568a3eb1158462e8d0~mv2.png",
+                  "width": 120,
+                  "height": 120,
+                  "caption": "Mao Hamasaki(.)com Logo"
+              },
+              "image": {
+              "@type": "ImageObject",
+                 "@id": "https://www.maohamasaki.com/#image/main",
+                  "url": "https://static.wixstatic.com/media/ae7aad_fc44a80ac7ee4f359f74bdcca1bac621~mv2.png",
+                  "width": 729,
+                  "height": 523,
+                  "caption": "Mao Hamasaki"
+                  
+              }
+          },
+          {
+              "@type": "WebSite",
+              "@id": "https://www.maohamasaki.com/#website",
+              "url": "https://www.maohamasaki.com",
+              "name": "Mao Hamasaki",
+              "publisher": {
+                  "@id": "https://www.maohamasaki.com/#organization"
+              },
+              "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": "https://www.maohamasaki.com/?s={search_term_string}",
+                  "query-input": "required name=search_term_string"
+              }
+          },
+          {
+              "@type": "WebPage",
+              "@id": "https://www.maohamasaki.com",
+              "url": "https://www.maohamasaki.com",
+              "inLanguage": "en-US",
+              "name": "Mao Hamasaki",
+              "isPartOf": {
+                  "@id": "https://www.maohamasaki.com/#website"
+              },
+              "about": {
+                  "@id": "https://www.maohamasaki.com/#organization"
+              },
+              "datePublished": "2012-09-14T08:13:22+00:00",
+              "dateModified": "2020-03-28T12:46:37+00:00",
+              "description": "Mao Hamasaki - AKA Hamasaki Mao (浜崎真緒) is a Japanese DJ Artist Known As DJ MAO. Mao Start DJing in 2018 around the Asia region and rank in 2019 top 100 DJ Djanetop in Asia and rank 97. In 2020 rank top 100 DJ Djanetop world, and also rank Djanetop Asia at no 8."
+          }
+      ],
+      
+      "@type": "Person",
+"@id": "https://www.maohamasaki.com/#person",
+"name": "Mao Hamasaki",
+"alternateName": "Hamasaki Mao",
+"nationality": "Japanese",
+"birthPlace" : {
+	"@type": "Place",
+    "address": {
+  		"@type": "PostalAddress",
+		"addressLocality": "Chiba",
+		"addressRegion": "Japan",
+        "addressCountry": "Japan"
+	}
+},
+"affiliation": [
+	{
+		"@type": "Organization",
+		"name": "Japanese Cinema"
+		
+  	}
+],
+"alumniOf": [
+	{
+	 "@type": "CollegeOrUniversity",
+	 "name": "Japanese Film School"
+    
+}
+],
+"gender": "Female",
+"Description": "Cinema",
+"disambiguatingDescription": " Japanese Cinema and Japanese DJ Artist",
+"jobTitle": "Japanese DJ Artist",
+"sameAs": [
+	"https://www.instagram.com/maohamasaki_official/",
+			"https://twitter.com/hamasaki_mao",
+			"https://www.facebook.com/maooooo1020",
+			"https://www.youtube.com/channel/UCI3s-Svu4fZcrib1zgMv2iQ/videos",
+			"https://www.tiktok.com/@maohamasaki?_d=dcj42iaak6b9lm&language=zh-Hant&sec_uid=MS4wLjABAAAAHzgGVI9QdKAufntEBNDdoQUYoy5FaaK8Cdi59wE5-Sz9RG8y-Ldkid6zoiChhRfd&share_author_id=6512038798545141761&u_code=cl3cm23hhkecdh&utm_source=copy&app=tiktok&iid=6840354813331982081&utm_campaign=client_share&utm_medium=ios&tt_from=copy&user_id=6512038798545141761&source=h5_t",
+			"https://www.maohamasaki.com/about-mao"
+			
+	]
+      
+      }
+  </script>

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div itemscope itemtype="http://schema.org/blogpost" class="post" itemprop="name" content="{{ site.title }}">
+   <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="{{ site.url }}/blog/img/{{ site.logo }}">
+      <meta itemprop="width" content="62">
+      <meta itemprop="height" content="60">
+    </div>
+    <meta itemprop="name" content="{{ site.title }}">
+  </div>
+  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://digitalroots.io/{{ post.permalink }}"/>
+  <div class="post-header">
+
+        <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+
+        {% if page.subTitle %}<h4 itemprop="alternativeHeadline">{{ page.subTitle %}}</h4>{% endif %}
+
+
+      <p class="post-meta"><span>{{ page.date | date: "%b %-d, %Y" }}</span>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      <meta itemprop="datePublished" content="{{ page.date |  date_to_xmlschema }}" />
+      <meta itemprop="dateModified" content="{{ site.time |  date_to_xmlschema }}" />
+  </div>
+  <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+     {% if page.image %}<img class="feat-img is-hidden-mobile" src="/blog/img/{{ page.image }}" alt="{{ page.ImageAlt }}">{% endif %}
+     {% if page.image-snippet %}<meta itemprop="url" content="https:/{{ site.url }}/blog/img/{{ page.image-snippet }}">
+     <meta itemprop="width" content="800">
+     <meta itemprop="height" content="600">{% endif %}
+  </div>
+    {% if page.image %}<hr/>{% elsif page.subTitle %}<hr/>{% endif %}
+
+
+    {% if page.post_description %}<h6 class="is-hidden-mobile" itemprop="description">{{ page.post_description %}}</h6>
+
+    <hr/>{% endif %}
+
+    <article class="post-content" itemprop="text">
+      {{ content }}
+    </article>
+
+      <!-- Twitter Tweet Button -->
+      <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="{{ site.twitter_username }}" data-size="large">Tweet</a>
+
+      <!-- Comment Section -->
+    {% include disqus.html disqus_identifier=page.disqus_identifier %}
+
+</div>

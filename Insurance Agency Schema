@@ -1,0 +1,71 @@
+JSON PEARL 9/Sept
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Zurich Geschäftsversicherung",
+        "description": "Zurich Business Insurance ist eine führende Unternehmensversicherungsagentur für selbständige und mittelständische Unternehmen in Europa. Wir bieten Kfz-Versicherungen auf den Kanarischen Inseln. Wir bieten Hausratversicherungen auf den Kanarischen Inseln und in Südspanien an. Wir arbeiten auf Kanarischen Inseln in der Krankenversicherung. Wir verfolgen einen professionellen Ansatz, da wir Versicherungen auf den Kanarischen Inseln in Spanien anbieten.",
+        "alternateName": "Teneriffa Versicherungs Team",
+        "url": "https://de.tvt-seguros.com/",
+        "logo": "https://static.wixstatic.com/media/c10ab8_4e303fd192a74c088e242596caae7620~mv2.jpg/v1/fill/w_166,h_60,al_c,q_80,usm_0.66_1.00_0.01/c10ab8_4e303fd192a74c088e242596caae7620~mv2.webp"
+    }
+</script>
+
+JSON TVT
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "InsuranceAgency",
+        "name": "TVT Seguros",
+        "legalName": "Teneriffa Versicherungs Team SL",
+        "url": "www.tvt-seguros.com",
+        "sameAs": [
+            "www.myspaininsurance.com",
+            "https://www.linkedin.com/company/tvt-seguros.-agencia-zurich-insurance-plc/",
+            "https://www.youtube.com/channel/UCz1UjRn3AdivckDJnHQ7i7w/feed", "https://www.instagram.com/zurich_tenerife_lapalma_tvt/",
+            "https://www.facebook.com/ZurichCanarias/",
+            "www.versicherungsteam.net",
+            "www.zurich-lapalma.com",
+            "www.tvtseguros.com",
+            "www.tvtseguros.es"
+        ],
+        "logo": "https://static.wixstatic.com/media/c10ab8_4e303fd192a74c088e242596caae7620~mv2.jpg/v1/fill/w_1186,h_394/TVT_SEGUROS_LOGO_2018_edited.jpg",
+        "image": "https://static.wixstatic.com/media/c10ab8_97395b264a6543d4aec4b38986251beb~mv2.png/v1/fill/w_160,h_90/logo.png",
+        "description": "Insurance Agency in Tenerife and La Palma, Spain. Exclusive Agency of Zurich Insurance and DKV Health Insurance in the Canary Islands. Services: Car Insurance, Home Insurance, Life Insurance, Health Insurance, Business Insurance and much more. Languages: Spanish, Russian, English, German, French and Italian,",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Avda Barranco de Las Torres, Ed. CC Domasa, sn local 102, 38670 Adeje",
+            "addressLocality": "Adeje - Tenerife Sur",
+            "addressRegion": "Islas Canarias",
+            "postalCode": "38670"
+        },
+        "email": "info@tvtseguros.es",
+        "telePhone": "+34922711546",
+        "faxNumber": "+34922714481",
+        "currenciesAccepted": "EUR",
+        "paymentAccepted": ["cash", "check", "credit card", "invoice"],
+        "openingHours": "Mo,Tu,We,Th,Fr 09:00-17:00",
+        "openingHoursSpecification": [{
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "17:00"
+        }],
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28.128536",
+            "longitude": "-16.743676"
+        },
+        "hasMap": "https://www.google.pt/maps/place/Zurich+Seguros+-+agencia+de+seguros+exclusiva+de+Zurich-+TVT,+SL./@28.1348768,-16.7533127,5000m/data=!3m1!1e3!4m8!1m2!2m1!1sseguros+zurich+tenerife!3m4!1s0xc6a909266847401:0x225c6ed6b1ef883a!8m2!3d28.128731!4d-16.743621?hl=es",
+        "priceRange": "$$"
+    }
+</script>
+
+

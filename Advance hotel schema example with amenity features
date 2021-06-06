@@ -1,0 +1,71 @@
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ZWIN ZWIN BOUTIQUE- HÔTEL &SPA",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/27/cb/e8/gorgeous-rooftop-with.jpg",
+        "@id": "HÔTEL",
+        "url": "http://www.zwinzwinhotelmarrakech.com/",
+        "telephone": "+212 638 959 295",
+        "priceRange": "$$-$$$",
+        "disambiguatingDescription": "Zwin Zwin Hotel & Spa Marrakech the best boutique, hotel, spa and riad in marrakech Morocco",
+  "additionalType": "https://en.wikipedia.org/wiki/Boutique_hotel",
+   "areaServed": ["https://www.wikidata.org/wiki/Q101625",
+   "https://www.wikidata.org/wiki/Q1028"],
+          "amenityFeature": [
+    {"@type":"LocationFeatureSpecification","name":"Free Wi-Fi"},
+    {"@type":"LocationFeatureSpecification","name":"Free parking"},
+    {"@type":"LocationFeatureSpecification","name":"Outdoor furniture"},
+    {"@type":"LocationFeatureSpecification","name":"Free breakfast"},
+    {"@type":"LocationFeatureSpecification","name":"Air conditioner"},
+    {"@type":"LocationFeatureSpecification","name":"Pool"},
+    {"@type":"LocationFeatureSpecification","name":"Child-friendly"},
+    {"@type":"LocationFeatureSpecification","name":"Restaurant"},
+    {"@type":"LocationFeatureSpecification","name":"Bar"}
+  ]  ,
+"address": {
+            "@type": "PostalAddress",
+            "streetAddress": "El Mokha, 10 Rue El Moustachfa, Marrakech 40000",
+            "addressLocality": "Marrakech",
+            "postalCode": "40000",
+            "addressCountry": "Morocco"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 31.622320,
+            "longitude": -7.988445
+        },
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5",
+                "bestRating": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mariano Genera",
+                "description":"This place is a hidden gem. We came here to have dinner after finding it in google maps. The food is a fantastic fusion between french and moroccan cuisine, greatly achieved and at good prices. The hotel is just beautiful, with its cobalt blue terrace and tasteful decoration, and the owner (a french guy, unfortunately we could not meet his wife) is super nice and fun to talk to. By far the best restaurant we visited in Marrakech, if we ever come back we'll definitely book a room in the hotel."
+},
+             
+                "name": "Brett Cameron- Walker",
+                "description":"Great location for food and drinks. Nice rooftop bar with music and comfortable seating We used this as a base for our final few hours in Marrakech. The lamb and hummus (small dish) are both amazing Friendly staff and good service especially compared to our previous experiences in Marrakech)"
+           
+           
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.3",
+            "reviewCount": "369"
+        },
+        "sameAs": [
+            "https://www.facebook.com/zwinzwinboutiquehotel/",
+            "https://www.instagram.com/zwinzwinboutiquehotel/",
+            "https://www.tripadvisor.fr/Restaurant_Review-g293734-d17421499-Reviews-Zwin_Zwin_Cafe-Marrakech_Marrakech_Safi.html",
+            "https://g.page/ZWINZWIN?share",
+"https://www.booking.com/hotel/ma/zwinzwin-boutique.fr.html",
+"https://www.agoda.com/zwin-zwin-boutique-hotel/hotel/marrakech-ma.html?cid=1844104"
+        ]
+}
+    }
+</script>

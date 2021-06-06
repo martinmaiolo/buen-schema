@@ -1,0 +1,191 @@
+<script type="application/ld+json">
+{
+        "@context": "http://schema.org",
+        "@graph":
+        [
+        {
+      "@type": "Event",
+      "name": "Enter name of Event 1: 6X Marketing SEO Event 1",
+      "startDate": "2020-07-06T04:00-04:30",
+      "endDate": "2021-07-06T04:00-04:30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gotomeet.me/PlaceYourOwnId"
+        },
+        "image": [
+        "https://6XMarketing.com/logo"
+                 ],
+      "description": "Enterprise SEO",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.gotomeet.me/6XMarketing",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://www.gotomeet.me/6XMarketing",
+        "validFrom": "2020-07-06T04:00-04:30"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Venkata Pagadala"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "6xmarketing",
+        "url": "https://6xmarketing.com/"
+      }
+        },
+      
+        {
+      "@type": "Event",
+      "name": "Enter name of Event 1: 6X Marketing SEO Event 1",
+      "startDate": "2020-07-06T04:00-04:30",
+      "endDate": "2021-07-06T04:00-04:30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gotomeet.me/NicoleVasquez"
+        },
+        "image": [
+        "https://6xmarketing.com/logo"
+                 ],
+      "description": "Enterprise SEO",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.gotomeet.me/6XMarketing",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://www.gotomeet.me/6XMarketing",
+        "validFrom": "2020-07-06T04:00-04:30"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Venkata Pagadala"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "6xmarketing",
+        "url": "https://6xmarketing.com/"
+      }
+        },
+      
+     
+      
+        {
+      "@type": "Event",
+      "name": "Enter name of Event 1: 6X Marketing SEO Event 1",
+      "startDate": "2020-07-06T04:00-04:30",
+      "endDate": "2021-07-06T04:00-04:30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gotomeet.me/NicoleVasquez"
+        },
+        "image": [
+        "https://6xmarketing.com/logo"
+                 ],
+      "description": "Enterprise SEO",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.gotomeet.me/6XMarketing",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://www.gotomeet.me/6XMarketing",
+        "validFrom": "2020-07-06T04:00-04:30"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Venkata Pagadala"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "6xmarketing",
+        "url": "https://6xmarketing.com/"
+      }
+        },
+        
+          {
+      "@type": "Event",
+      "name": "Enter name of Event 1: 6X Marketing SEO Event 1",
+      "startDate": "2020-07-06T04:00-04:30",
+      "endDate": "2021-07-06T04:00-04:30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gotomeet.me/NicoleVasquez"
+        },
+        "image": [
+        "https://6xmarketing.com/logo"
+                 ],
+      "description": "Enterprise SEO",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.gotomeet.me/6XMarketing",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://www.gotomeet.me/6XMarketing",
+        "validFrom": "2020-07-06T04:00-04:30"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Venkata Pagadala"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "6xmarketing",
+        "url": "https://6xmarketing.com/"
+      }
+        },
+      
+      
+           {
+      "@type": "Event",
+      "name": "Enter name of Event 1: 6X Marketing SEO Event 1",
+      "startDate": "2020-07-06T04:00-04:30",
+      "endDate": "2021-07-06T04:00-04:30",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.gotomeet.me/PlaceYourOwnId"
+        },
+        "image": [
+        "https://6XMarketing.com/logo"
+                 ],
+      "description": "Enterprise SEO",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.gotomeet.me/6XMarketing",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://www.gotomeet.me/6XMarketing",
+        "validFrom": "2020-07-06T04:00-04:30"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Venkata Pagadala"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "6xmarketing",
+        "url": "https://6xmarketing.com/"
+        }
+      },
+      
+      
+     {
+        "@type": "Question",
+        "name": "Is Event Free",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text":"Yes,its free"}
+        }]
+      
+      
+        
+   }
+</script>
